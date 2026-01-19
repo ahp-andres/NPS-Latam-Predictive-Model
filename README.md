@@ -16,7 +16,7 @@ El reto no es solo predecir un número, sino actuar sobre él. El sistema busca:
 ---
 
 ## 🔍 Data Storytelling: Interpretación de Drivers
-Antes de construir el modelo, realizamos un análisis profundo para entender qué valora realmente el pasajero.
+Antes de entrenar modelos, interrogamos a los datos para desafiar las intuiciones del negocio.
 
 ### El ADN de la Satisfacción
 > ![Heatmap de Correlación](heatmap_proyecto.jpeg)
